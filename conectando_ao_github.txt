@@ -1,0 +1,1 @@
+Usando a documentação do próprio Github, é possível clonar, editar, filtrar o que é baixado e o que é enviado de outros diretórios para o seu arquivo e vice-versa.
