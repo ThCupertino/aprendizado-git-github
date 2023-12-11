@@ -1,0 +1,1 @@
+Entendo o que é Git e para qual intenção ele foi criado - para organização e melhorar a performance de grupos de desenvolvedores, facilitando na manutenção, correção de erros e fragmentação do trabalho
