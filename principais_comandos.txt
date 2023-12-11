@@ -1,0 +1,1 @@
+Aprendendo a criar diretórios [mkdir], deletar diretórios e arquivos [rm  e rm -rf], criar arquivos [touch], navegar pelas pastas [cd ..], entre outros pormenores
