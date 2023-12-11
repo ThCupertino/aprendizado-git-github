@@ -1,0 +1,1 @@
+Por ter Windows, instalei o Ubuntu e o Linux para o funcionamento do Git ser semelhante ao do professor do curso. Configurando com 'git config --global user.name[username].'
