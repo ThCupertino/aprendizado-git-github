@@ -1,0 +1,1 @@
+Introdução ao sistema que ajuda a versionar e organizar melhor as 'árvores de códigos' de um sistema, as branchs. 
